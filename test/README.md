@@ -1,2 +1,2 @@
-## This is a printf project by @Oluwatoby8965 and @Mostafa-HEH
+## This is a printf project
  project on Alx at week#8
